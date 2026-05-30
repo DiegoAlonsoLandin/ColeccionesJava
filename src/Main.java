@@ -37,5 +37,7 @@ public class Main {
 
         System.out.println("NUEVO PRINT");
 
+        System.out.println("El tamaño de la lista es:" + alumnos.size());
+
     }
 }
